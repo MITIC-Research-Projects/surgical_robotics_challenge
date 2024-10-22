@@ -1,4 +1,7 @@
-# Surgical Robotics Challenge
+# MITIC - Surgical Robotics Challenge
+
+This repository presents our approach and contribution to the Surgical Robotics Challenge. 
+
 For more information regarding the challenge, please visit [Surgical Robotics Challenge 2021-2022](https://surgical-robotics-ai.github.io/surgical-robotics-challenge/challenge-2021.html) or [Surgical Robotics Challenge 2023-2024](https://surgical-robotics-ai.github.io/surgical-robotics-challenge-2023/challenge-2023.html).
 
 # [Discussions Forum](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/discussions)
